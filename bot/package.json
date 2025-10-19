@@ -1,0 +1,15 @@
+{
+  "name": "fivem-protection-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "dotenv": "^16.4.5"
+  }
+}
